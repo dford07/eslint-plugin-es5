@@ -15,11 +15,9 @@ module.exports = {
           const functionName = node.callee.property.name;
 
           const es6ArrayFunctions = [
-            'find',
             'findIndex',
             'copyWithin',
             'values',
-            'fill'
           ];
           const es6StringFunctions = [
           
