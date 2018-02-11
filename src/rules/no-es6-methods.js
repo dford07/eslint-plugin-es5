@@ -22,10 +22,7 @@ module.exports = {
             'fill'
           ];
           const es6StringFunctions = [
-            'startsWith',
-            'endsWith',
-            'includes',
-            'repeat'
+          
           ];
 
           const es6Functions = [].concat(
