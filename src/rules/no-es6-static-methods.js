@@ -23,7 +23,7 @@ module.exports = {
             'Number.isNaN',
             'Number.isFinite',
             'Number.isSafeInteger',
-            'Object.assign',
+       //     'Object.assign',
           ];
           if(es6StaticFunctions.indexOf(functionName) > -1) {
             context.report({
